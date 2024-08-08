@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shilpa1ahuja
 - 👀 I’m interested in ... my work, my kids, being successful as a programmer so I can build my idea.
-- 🌱 I’m currently learning ... software engineering.
+- 🌱 I’m currently learning ... software engineering, AI
 - 💞️ I’m looking to collaborate on ... nothing right now, but I'd love to connect with smart programmers who want to build a new feature (Flask/Django, Python, JS)
 - 📫 How to reach me ... contact@shilpaahuja.com
 - 😄 Pronouns: ... She/her.
